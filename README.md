@@ -1,13 +1,13 @@
 React Jobs Web Application
 
 A full CRUD job-management platform built using React.js, Tailwind CSS, React Router, and JSON Server.
-This project demonstrates practical front-end engineering skills including component architecture, routing, state management, API handling, responsive UI, and production-grade deployment workflows.
+This project demonstrates practical front-end engineering skills including component architecture, routing, state management, API handling, responsive UI, and deployment workflows.
 
 Badges
-<p align="left"> <img src="https://img.shields.io/badge/Status-In_Progress-blue" /> <img src="https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel" /> <img src="https://img.shields.io/badge/React-18.0+-61DAFB?logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-3.0+-38B2AC?logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/JSON_Server-Mock_API-orange" /> </p>
+<p> <img src="https://img.shields.io/badge/Status-In_Progress-blue" /> <img src="https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel" /> <img src="https://img.shields.io/badge/React-18.0+-61DAFB?logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-3.0+-38B2AC?logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/JSON_Server-Mock_API-orange" /> </p>
 Live Demo
 
-Vercel Deployment:
+Vercel:
 https://react-jobs-application.vercel.app
 
 GitHub Repository:
@@ -15,17 +15,19 @@ https://github.com/Vjadhav-codes/React-Jobs-Application
 
 Project Timeline & Professional Context
 
-This application was developed between August–October 2025 and continues to be improved as I enhance features, refine performance, and expand UI capabilities.
+This application was developed between August–October 2025 and continues to evolve as I refine features, performance, and UI structure.
 
 The deployed version demonstrates:
 
-Strong front-end fundamentals
+Strong foundational React skills
 
-Clean component-driven architecture
+Clean, scalable component architecture
 
-Ability to solve problems and build production-ready features
+Effective problem-solving and API integration
 
-I take complete ownership of my projects and maintain a consistent, disciplined development workflow.
+Ability to deliver production-ready features
+
+I take full ownership of my projects and continuously work to improve them.
 
 Features
 Completed
@@ -34,15 +36,15 @@ Full CRUD operations for job listings
 
 15+ structured job fields
 
-Dynamic routing via React Router
+Dynamic routing using React Router
 
 Reusable UI components (cards, forms, layouts)
 
-Responsive UI using Tailwind CSS (Flexbox & Grid)
+Fully responsive UI (Grid + Flexbox)
 
-Loading & error state handling
+Dedicated loading and error states
 
-JSON Server mock REST API
+Mock REST API using JSON Server
 
 Clean and scalable folder structure
 
@@ -50,27 +52,65 @@ In Progress
 
 Advanced filtering and search
 
-Additional UI pages & layout improvements
+Additional UI pages and layout refinements
 
-Better form validation
+Improved validation
 
-Accessibility (a11y) updates
+Accessibility (a11y) enhancements
 
-Enhanced mobile responsiveness
+Optimized mobile responsiveness
 
-Code and performance optimization
+Performance and code optimization
 
 Tech Stack
 
-Frontend: React.js, JavaScript (ES6+), Tailwind CSS
-Routing: React Router DOM
-Backend (Mock API): JSON Server
-Build Tool: Vite
-Deployment: Vercel
-Tools: Git, GitHub, npm
+Frontend:
+
+React.js
+
+JavaScript (ES6+)
+
+Tailwind CSS
+
+HTML5 & CSS3
+
+Routing:
+
+React Router DOM
+
+Backend Simulation:
+
+JSON Server
+
+Build & Deployment:
+
+Vite
+
+Vercel
+
+Tools:
+
+Git
+
+GitHub
+
+npm
 
 Skills Demonstrated:
-Component architecture, state management (useState/useEffect), async operations, API implementation, responsive design, version control, deployment practices.
+
+Component-driven architecture
+
+State management (useState/useEffect)
+
+Async operations and REST API handling
+
+Responsive UI engineering
+
+Error/loading state management
+
+Version control
+
+Deployment readiness
 
 Installation & Setup
 
@@ -92,23 +132,23 @@ npm run dev
 
 What This Project Demonstrates
 
-Real-world project development capability
+Ability to build real, functional front-end applications
 
-Experience deploying React applications on Vercel
+Experience deploying React applications to Vercel
 
-Understanding of routing, loaders, and data flow
+Clear understanding of routing, loaders, data flow
 
-Maintainable and scalable component architecture
+Maintainable component architecture
 
-Responsive UI development for all screen sizes
+Strong responsive UI implementation
 
-Error & loading state management for stable UX
+Error and loading state management for stable UX
 
-Consistent GitHub practices
+Consistent GitHub repository practices
 
-Strong commitment to continuous learning and improvement
+Commitment to learning and continuous improvement
 
 Developer Notes
 
-I actively build real applications, deploy them publicly, and iterate to improve quality over time.
-This repository represents both completed features and ongoing enhancements—reflecting real software engineering workflows.
+I actively build real applications, deploy them publicly, and refine them over time.
+This repository reflects both completed features and ongoing improvements—aligned with real engineering workflows.
