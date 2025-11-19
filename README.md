@@ -4,7 +4,16 @@ A full CRUD job-management platform built using React.js, Tailwind CSS, React Ro
 This project demonstrates practical front-end engineering skills including component architecture, routing, state management, API handling, responsive UI, and deployment workflows.
 
 Badges
-<p> <img src="https://img.shields.io/badge/Status-In_Progress-blue" /> <img src="https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel" /> <img src="https://img.shields.io/badge/React-18.0+-61DAFB?logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-3.0+-38B2AC?logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/JSON_Server-Mock_API-orange" /> </p>
+
+
+
+
+
+
+
+
+
+
 Live Demo
 
 Vercel:
@@ -27,7 +36,7 @@ Effective problem-solving and API integration
 
 Ability to deliver production-ready features
 
-I take full ownership of my projects and continuously work to improve them.
+I take ownership of my projects and work continually to improve them.
 
 Features
 Completed
@@ -42,7 +51,7 @@ Reusable UI components (cards, forms, layouts)
 
 Fully responsive UI (Grid + Flexbox)
 
-Dedicated loading and error states
+Comprehensive loading and error states
 
 Mock REST API using JSON Server
 
@@ -58,7 +67,7 @@ Improved validation
 
 Accessibility (a11y) enhancements
 
-Optimized mobile responsiveness
+Better mobile responsiveness
 
 Performance and code optimization
 
@@ -100,9 +109,11 @@ Skills Demonstrated:
 
 Component-driven architecture
 
-State management (useState/useEffect)
+State management using React Hooks
 
-Async operations and REST API handling
+Asynchronous data handling
+
+API integration
 
 Responsive UI engineering
 
@@ -110,7 +121,7 @@ Error/loading state management
 
 Version control
 
-Deployment readiness
+Deployment workflows
 
 Installation & Setup
 
@@ -134,21 +145,21 @@ What This Project Demonstrates
 
 Ability to build real, functional front-end applications
 
-Experience deploying React applications to Vercel
+Experience deploying React applications on Vercel
 
-Clear understanding of routing, loaders, data flow
+Understanding of routing, loaders, and data flow
 
-Maintainable component architecture
+Clean, maintainable component architecture
 
-Strong responsive UI implementation
+Responsive UI design across devices
 
-Error and loading state management for stable UX
+Stable UX through loading and error states
 
-Consistent GitHub repository practices
+Professional GitHub repository structure
 
-Commitment to learning and continuous improvement
+Commitment to continuous improvement
 
 Developer Notes
 
-I actively build real applications, deploy them publicly, and refine them over time.
-This repository reflects both completed features and ongoing improvements—aligned with real engineering workflows.
+I build real applications, deploy them publicly, and refine them as my skills grow.
+This repository reflects both completed features and ongoing enhancements — consistent with real engineering workflows.
