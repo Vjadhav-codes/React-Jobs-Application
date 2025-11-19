@@ -78,7 +78,7 @@ Routing:
 
 React Router DOM
 
-Backend Simulation:
+Mock Backend:
 
 JSON Server
 
