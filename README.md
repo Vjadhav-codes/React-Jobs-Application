@@ -7,7 +7,7 @@ Badges
 <p align="left"> <img src="https://img.shields.io/badge/Status-In_Progress-blue" /> <img src="https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel" /> <img src="https://img.shields.io/badge/React-18.0+-61DAFB?logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-3.0+-38B2AC?logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/JSON_Server-Mock_API-orange" /> </p>
 Live Demo
 
-Vercel:
+Vercel Deployment:
 https://react-jobs-application.vercel.app
 
 GitHub Repository:
@@ -17,8 +17,15 @@ Project Timeline & Professional Context
 
 This application was developed between August–October 2025 and continues to be improved as I enhance features, refine performance, and expand UI capabilities.
 
-The deployed version demonstrates my front-end fundamentals, problem-solving ability, and clean component design.
-I take full ownership of my projects and can deliver complete, production-ready features with the same discipline and consistency shown here.
+The deployed version demonstrates:
+
+Strong front-end fundamentals
+
+Clean component-driven architecture
+
+Ability to solve problems and build production-ready features
+
+I take complete ownership of my projects and maintain a consistent, disciplined development workflow.
 
 Features
 Completed
@@ -35,21 +42,21 @@ Responsive UI using Tailwind CSS (Flexbox & Grid)
 
 Loading & error state handling
 
-Mock REST API using JSON Server
+JSON Server mock REST API
 
-Clean and scalable project structure
+Clean and scalable folder structure
 
 In Progress
 
 Advanced filtering and search
 
-Additional UI pages and visual polish
+Additional UI pages & layout improvements
 
-Validation improvements
+Better form validation
 
-Accessibility enhancements (a11y)
+Accessibility (a11y) updates
 
-Mobile layout refinement
+Enhanced mobile responsiveness
 
 Code and performance optimization
 
@@ -57,15 +64,18 @@ Tech Stack
 
 Frontend: React.js, JavaScript (ES6+), Tailwind CSS
 Routing: React Router DOM
-Mock Backend: JSON Server
+Backend (Mock API): JSON Server
 Build Tool: Vite
 Deployment: Vercel
 Tools: Git, GitHub, npm
 
-Skills demonstrated:
-Component-driven architecture, state management (useState/useEffect), async workflows, error handling, responsive UI engineering, version control, deployment readiness.
+Skills Demonstrated:
+Component architecture, state management (useState/useEffect), async operations, API implementation, responsive design, version control, deployment practices.
 
 Installation & Setup
+
+Clone the repository:
+
 git clone https://github.com/Vjadhav-codes/React-Jobs-Application.git
 cd React-Jobs-Application
 npm install
@@ -82,23 +92,23 @@ npm run dev
 
 What This Project Demonstrates
 
-Ability to build real, functional front-end applications
+Real-world project development capability
 
 Experience deploying React applications on Vercel
 
-Understanding of routing, loaders, and API logic
+Understanding of routing, loaders, and data flow
 
-Strong, maintainable React component architecture
+Maintainable and scalable component architecture
 
-Responsive UI implementation for multiple viewports
+Responsive UI development for all screen sizes
 
-Usage of structured loading/error states for reliability
+Error & loading state management for stable UX
 
-Consistent, professional GitHub repository management
+Consistent GitHub practices
 
-Commitment to continuous improvement
+Strong commitment to continuous learning and improvement
 
 Developer Notes
 
-I focus on building real applications, deploying them publicly, and improving them over time.
-This repository reflects both completed features and ongoing refinement — aligning with real professional engineering workflows.
+I actively build real applications, deploy them publicly, and iterate to improve quality over time.
+This repository represents both completed features and ongoing enhancements—reflecting real software engineering workflows.
